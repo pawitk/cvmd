@@ -91,3 +91,14 @@ Skills
 * Application deployment on cloud services (Amazon Web Service, Digital Ocean, Microsoft Azure)
 
 * Statistical analysis and data modeling (Python,R)
+
+Languages
+---------
+
+* Thai: Native
+
+* English: Business
+
+* Japanese: Conversational
+
+* Mandarin: Beginner
