@@ -1,6 +1,8 @@
 Pawit Khid-arn
 ==============
+
 Phone: (+66) 083-250-2220
+
 E-mail: khidarn.pawit@gmail.com
 
 Work Experience
