@@ -14,7 +14,7 @@ Work Experience
 
     - Develop server side functions (Ruby on Rails)
     - Server deployment and system administration (Amazon Web Service)
-    - Develop web frontend for marketplace (HTML5,CSS,JS)
+    - Develop web front-end for marketplace (HTML5,CSS,JS)
     - Develop mobile application for B2C (Objective C)
 
 * **Mahidol University International College** (Bangkok, Thailand)
@@ -35,7 +35,7 @@ Work Experience
     *Project manager*, 05/2012 - 01/2013
 
     - Manage client projects involving Customer Relation Management systems
-    - Introduce new technology to the firm
+    - Introduce new technology to the firm's employees
 
 * **Nikkei Research, Inc.** (Tokyo, Japan)
 
